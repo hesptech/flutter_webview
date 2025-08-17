@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
+import 'home_screen.dart';
 
 void main() {
   runApp(
     const MaterialApp(
-      home: WebViewApp(),
+      home: HomeScreen(),
     ),
   );
 }
 
-class MainApp extends StatelessWidget {
+/* class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
   @override
@@ -22,7 +23,7 @@ class MainApp extends StatelessWidget {
       ),
     );
   }
-}
+} */
 
 class WebViewApp extends StatefulWidget {
   const WebViewApp({super.key});
