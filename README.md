@@ -7,8 +7,10 @@ https://medium.com/search?q=flutter+webview
 
 
 Flutter: WebView — a simple demo
+youtube
 https://pjbelo.medium.com/flutter-webview-a-simple-demo-74fa6bb476d5
-
+github
+https://github.com/pjbelo/flutter_webview_demo/blob/step_2/lib/main.dart
 
 
 Using the JavaScript Channel in Flutter WebView to Pass Several Parameters from JavaScript to Dart
